@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+
+/* header section */
+header{
+    background-color: #264653;
+}
+.text-decor{
+    color: white;
+}
+button{
+    background-color: #E76F51;
+}
+
+/* main section */
+.colorful-text{
+    color: #E76F51;
+}
+
+.gray-scale img{
+    cursor: pointer;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+.fa-star{
+    color: #E76F51;
+}
+.star{
+    margin-left: 30%;
+    padding-bottom: 5px;
+}
+
+/* extra section */
+hr{
+    color: white;
+    
+}
+.btn-sm{
+    margin-left: 100px;
+    font-weight: bold;
+}
+.fa-instagram{
+    margin-left: 10px;
+}
